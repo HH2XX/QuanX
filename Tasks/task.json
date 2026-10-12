@@ -1,4 +1,4 @@
-{{}
+{
   "name": "HH2XXのTasks",
   "description": "收集一些定时任务，Updata:2026年10月12日",
   "task": [
@@ -33,7 +33,8 @@
         {
             "config": "5 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/wentiweilaihui_signin.js, tag=微信小程序未来荟每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hrwt.jpg",
             "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/wentiweilaihui_signin.conf, tag=微信小程序未来荟每日签到(获取CK)"
-        },{
+        },
+        {
             "config": "8 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/yaduo_signin.js, tag=亚朵酒店 App 每日签到和抽奖, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Yd.jpg",
             "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/yaduo_signin.conf, tag=亚朵酒店 App 每日签到和抽奖(获取CK)"
         }

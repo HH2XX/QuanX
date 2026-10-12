@@ -1,42 +1,42 @@
 {
   "name": "HH2XXのTasks",
-  "description": "收集一些定时任务，Updata:2026年10月12日",
+  "description": "收集一些定时任务",
   "task": [
         {
             "config": "25 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/huaruntong_999_quiz.js, tag=华润通·999 每日答题, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hrwt.jpg",
             "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/huaruntong_999_quiz.conf, tag=华润通·999 每日答题(获取CK)"
         },
         {
-            "config": "15 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/huaruntong_signin.js, tag=华润通 H5/微信签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hrwt.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/huaruntong_signin.conf, tag=华润通 H5/微信签到(获取CK)"
+            "config": "15 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/huaruntong_signin.js, tag=华润通 H5/微信签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hrwt.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/huaruntong_signin.conf, tag=华润通 H5/微信签到(获取CK)"
         },
         {
-            "config": "5 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/huazhu_signin.js, tag=华住会 App/微信小程序每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hzh.png",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/huazhu_signin.conf, tag=华住会 App/微信小程序每日签到(获取CK)"
+            "config": "5 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/huazhu_signin.js, tag=华住会 App/微信小程序每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hzh.png",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/huazhu_signin.conf, tag=华住会 App/微信小程序每日签到(获取CK)"
         },
         {
-            "config": "8 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/kurobbs_wuwa_signin.js, tag=库街区鸣潮游戏签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Mc.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/kurobbs_wuwa_signin.conf, tag=库街区鸣潮游戏签到(获取CK)"
+            "config": "8 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/kurobbs_wuwa_signin.js, tag=库街区鸣潮游戏签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Mc.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/kurobbs_wuwa_signin.conf, tag=库街区鸣潮游戏签到(获取CK)"
         },
         {
-            "config": "35 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/qishui_signin.js, tag=汽水音乐签到（实验版）, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Qsmusic.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/qishui_signin.conf, tag=汽水音乐签到（实验版）(获取CK)"
+            "config": "35 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/qishui_signin.js, tag=汽水音乐签到（实验版）, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Qsmusic.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/qishui_signin.conf, tag=汽水音乐签到（实验版）(获取CK)"
         },
         {
-            "config": "7 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/taptap_wuwa_signin.js, tag=TapTap鸣潮活动签到及礼包领取, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Taptap.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/taptap_wuwa_signin.conf, tag=TapTap鸣潮活动签到及礼包领取(获取CK)"
+            "config": "7 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/taptap_wuwa_signin.js, tag=TapTap鸣潮活动签到及礼包领取, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Taptap.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/taptap_wuwa_signin.conf, tag=TapTap鸣潮活动签到及礼包领取(获取CK)"
         },
         {
-            "config": "0 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/weibo_wuwa_supertopic_signin.js, tag=微博 App 超话签到（含鸣潮）, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Wb.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/weibo_wuwa_supertopic_signin.conf, tag=微博 App 超话签到（含鸣潮）(获取CK)"
+            "config": "0 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/weibo_wuwa_supertopic_signin.js, tag=微博 App 超话签到（含鸣潮）, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Wb.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/weibo_wuwa_supertopic_signin.conf, tag=微博 App 超话签到（含鸣潮）(获取CK)"
         },
         {
-            "config": "5 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/wentiweilaihui_signin.js, tag=微信小程序未来荟每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hrwt.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/wentiweilaihui_signin.conf, tag=微信小程序未来荟每日签到(获取CK)"
+            "config": "5 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/wentiweilaihui_signin.js, tag=微信小程序未来荟每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hrwt.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/wentiweilaihui_signin.conf, tag=微信小程序未来荟每日签到(获取CK)"
         },
         {
-            "config": "8 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/yaduo_signin.js, tag=亚朵酒店 App 每日签到和抽奖, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Yd.jpg",
-            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Tasks/yaduo_signin.conf, tag=亚朵酒店 App 每日签到和抽奖(获取CK)"
+            "config": "8 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/yaduo_signin.js, tag=亚朵酒店 App 每日签到和抽奖, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Yd.jpg",
+            "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/yaduo_signin.conf, tag=亚朵酒店 App 每日签到和抽奖(获取CK)"
         }
         ]
 }

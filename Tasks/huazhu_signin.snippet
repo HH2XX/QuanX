@@ -1,0 +1,5 @@
+# 华住会签到 CK 获取
+
+^https:\/\/appgw\.huazhu\.com\/game\/(?:sign_header|sign_in)(?:\?.*)?$ url script-request-header https://raw.githubusercontent.com/d539834401/QxSignUp/main/huazhu_signin.js
+^https:\/\/hweb-personalcenter\.huazhu\.com\/login\/autoLogin(?:\?.*)?$ url script-request-header https://raw.githubusercontent.com/d539834401/QxSignUp/main/huazhu_signin.js
+hostname = appgw.huazhu.com hweb-personalcenter.huazhu.com

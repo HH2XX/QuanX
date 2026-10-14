@@ -1,6 +1,6 @@
 {
-  "name": "HH2XX任务",
-  "description": "华住会、汽水音乐、微博、吾爱破解签到任务",
+  "name": "HH2XXのTasks",
+  "description": "收集一些签到任务，Updata：2026年10月14日",
   "task": [
     {
       "config": "5 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Huazhu/huazhu_signin.js, tag=华住会每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hzh.png",

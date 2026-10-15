@@ -53,6 +53,10 @@
     {
       "config": "15 7-23/1 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuWoTask/KuWoTask.js, tag=酷我音乐签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/KuWo.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuWoTask/KuWoTask.snippet, tag=酷我音乐Cookie"
+    },
+    {
+      "config": "1 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.js, tag=CalShot每日打卡, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/CalShot.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.snippet, tag=CalShot请求头"
     }
   ]
 }

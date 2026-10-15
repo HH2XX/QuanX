@@ -56,7 +56,27 @@
     },
     {
       "config": "1 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.js, tag=CalShot每日打卡, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/CalShot.png",
-      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.snippet, tag=CalShot请求头"
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.snippet, tag=CalShotCookie"
+    },
+    {
+      "config": "8 1 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hongze/hongze.js, tag=洪泽论坛签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hongze.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hongze/Hongze.snippet, tag=洪泽论坛Cookie"
+    },
+    {
+      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/LKXDYF/LKXDYF.js, tag=老百姓大药房签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/LKXDYF.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/LKXDYF/LKXDYF.snippet, tag=老百姓大药房Cookie"
+    },
+    {
+      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Mixc/mixc_signin.js, tag=一点万象签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Mixc.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Mixc/Mixc.snippet, tag=一点万象Cookie"
+    },
+    {
+      "config": "11 11 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/QQMusic/QQMusic.js, tag=QQ音乐绿钻成长值, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/QQMusic.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/QQMusic/QQMusic.snippet, tag=QQ音乐Cookie"
+    },
+    {
+      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.js, tag=随乐游, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/SLY.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.snippet, tag=随乐游Cookie"
     }
   ]
 }

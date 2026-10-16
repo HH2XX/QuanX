@@ -1,0 +1,5 @@
+# 哈啰单车 Cookie 获取
+
+^https?:\/\/(api|marketingapi)\.hellobike\.com\/api\?(user\.taurus\.pointInfo|common\.welfare\.sign|common\.welfare\.subsidy\.detail) url script-request-body https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/hellobike.js
+^https?:\/\/(api|marketingapi)\.hellobike\.com\/api\?(user\.taurus\.userInfo|user\.profile\.query|common\.welfare\.home|common\.welfare\.taurus\.task) url script-response-body https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/hellobike.js
+hostname = api.hellobike.com, marketingapi.hellobike.com

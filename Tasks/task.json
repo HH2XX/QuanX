@@ -77,6 +77,14 @@
     {
       "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.js, tag=随乐游, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/SLY.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.snippet, tag=随乐游Cookie"
+    },
+    {
+      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/hellobike.js, tag=哈啰单车签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hldc.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/Hellobike.snippet, tag=哈啰单车Cookie"
+    },
+    {
+      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Quark/Quark_CheckIn.js, tag=夸克网盘签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Quark.png",
+      "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Quark/Quark.snippet, tag=夸克网盘Cookie"
     }
   ]
 }

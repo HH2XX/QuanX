@@ -3,87 +3,87 @@
   "description": "收集一些签到任务，Updata：2026年10月14日",
   "task": [
     {
-      "config": "5 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Huazhu/huazhu_signin.js, tag=华住会每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hzh.png",
+      "config": "5 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Huazhu/huazhu_signin.js, tag=华住会每日签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Hzh.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Huazhu/huazhu_signin.snippet, tag=华住会Cookie"
     },
     {
-      "config": "35 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Qishui/qishui_signin.js, tag=汽水音乐签到（实验版）, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Qsmusic.png",
+      "config": "35 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Qishui/qishui_signin.js, tag=汽水音乐签到（实验版）, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Qsmusic.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Qishui/qishui_signin.snippet, tag=汽水音乐Cookie"
     },
     {
-      "config": "0 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Weibo/weibo_wuwa_supertopic_signin.js, tag=微博超话签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Weibo.png",
+      "config": "0 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Weibo/weibo_wuwa_supertopic_signin.js, tag=微博超话签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Weibo.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Weibo/weibo_wuwa_supertopic_signin.snippet, tag=微博超话Cookie"
     },
     {
-      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/52PoJie/52pojie.js, tag=吾爱破解签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/52pojie.png",
+      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/52PoJie/52pojie.js, tag=吾爱破解签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/52pojie.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/52PoJie/52PoJie.snippet, tag=吾爱破解Cookie"
     },
     {
-      "config": "10 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/BaiDuTieBa/BaiDuTieBa.js, tag=贴吧签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/BaiDuTieBa.png",
+      "config": "10 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/BaiDuTieBa/BaiDuTieBa.js, tag=贴吧签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/BaiDuTieBa.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/BaiDuTieBa/BaiDuTieBa.snippet, tag=贴吧Cookie"
     },
     {
-      "config": "30 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/GLaDOS/GLaDOS.js, tag=GLaDOS签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/GLaDOS.png",
+      "config": "30 7 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/GLaDOS/GLaDOS.js, tag=GLaDOS签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/GLaDOS.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/GLaDOS/GLaDOS.snippet, tag=GLaDOSCookie"
     },
     {
-      "config": "0 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/NodeSeek/NodeSeek.js, tag=NodeSeek签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/nodeseek.png",
+      "config": "0 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/NodeSeek/NodeSeek.js, tag=NodeSeek签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/nodeseek.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/NodeSeek/NodeSeek.snippet, tag=NodeSeekCookie"
     },
     {
-      "config": "30 8,20 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/PingMe/PingMe.js, tag=PingMe签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/PingMe.png",
+      "config": "30 8,20 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/PingMe/PingMe.js, tag=PingMe签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/PingMe.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/PingMe/PingMe.snippet, tag=PingMeCookie"
     },
     {
-      "config": "20 8,20 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/WeTalk/WeTalk.js, tag=WeTalk签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/WeTalk.png",
+      "config": "20 8,20 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/WeTalk/WeTalk.js, tag=WeTalk签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/WeTalk.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/WeTalk/WeTalk.snippet, tag=WeTalkCookie"
     },
     {
-      "config": "0 10 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/WPS/WPS.js, tag=WPS签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/WPS.png",
+      "config": "0 10 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/WPS/WPS.js, tag=WPS签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/WPS.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/WPS/WPS.snippet, tag=WPSCookie"
     },
     {
-      "config": "50 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/HaiJiao/CheckIn.js, tag=海角签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/HaiJiaoSheQu.png",
+      "config": "50 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/HaiJiao/CheckIn.js, tag=海角签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/HaiJiaoSheQu.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/HaiJiao/HaiJiao.snippet, tag=海角Cookie"
     },
     {
-      "config": "10 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuGou_CV/KuGou_CV.js, tag=酷狗音乐概念版签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/KuGou_CV.png",
+      "config": "10 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuGou_CV/KuGou_CV.js, tag=酷狗音乐概念版签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/KuGou_CV.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuGou_CV/KuGou_CV.snippet, tag=酷狗音乐Cookie"
     },
     {
-      "config": "15 7-23/1 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuWoTask/KuWoTask.js, tag=酷我音乐签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/KuWo.png",
+      "config": "15 7-23/1 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuWoTask/KuWoTask.js, tag=酷我音乐签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/KuWo.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/KuWoTask/KuWoTask.snippet, tag=酷我音乐Cookie"
     },
     {
-      "config": "1 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.js, tag=CalShot每日打卡, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/CalShot.png",
+      "config": "1 8 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.js, tag=CalShot每日打卡, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/CalShot.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/CalShot/CalShot.snippet, tag=CalShotCookie"
     },
     {
-      "config": "8 1 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hongze/hongze.js, tag=洪泽论坛签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hongze.png",
+      "config": "8 1 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hongze/hongze.js, tag=洪泽论坛签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Hongze.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hongze/Hongze.snippet, tag=洪泽论坛Cookie"
     },
     {
-      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/LKXDYF/LKXDYF.js, tag=老百姓大药房签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/LKXDYF.png",
+      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/LKXDYF/LKXDYF.js, tag=老百姓大药房签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/LKXDYF.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/LKXDYF/LKXDYF.snippet, tag=老百姓大药房Cookie"
     },
     {
-      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Mixc/mixc_signin.js, tag=一点万象签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Mixc.png",
+      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Mixc/mixc_signin.js, tag=一点万象签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Mixc.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Mixc/Mixc.snippet, tag=一点万象Cookie"
     },
     {
-      "config": "11 11 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/QQMusic/QQMusic.js, tag=QQ音乐绿钻成长值, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/QQMusic.png",
+      "config": "11 11 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/QQMusic/QQMusic.js, tag=QQ音乐绿钻成长值, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/QQMusic.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/QQMusic/QQMusic.snippet, tag=QQ音乐Cookie"
     },
     {
-      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.js, tag=随乐游, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/SLY.png",
+      "config": "1 0 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.js, tag=随乐游, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/SLY.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/SLY/SLY.snippet, tag=随乐游Cookie"
     },
     {
-      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/hellobike.js, tag=哈啰单车签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Hldc.png",
+      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/hellobike.js, tag=哈啰单车签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Hldc.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Hellobike/Hellobike.snippet, tag=哈啰单车Cookie"
     },
     {
-      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Quark/Quark_CheckIn.js, tag=夸克网盘签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/Quark.png",
+      "config": "0 9 * * * https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Quark/Quark_CheckIn.js, tag=夸克网盘签到, img-url=https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/icon/qx/Quark.png",
       "addons": "https://raw.githubusercontent.com/HH2XX/QuanX/refs/heads/main/Tasks/Quark/Quark.snippet, tag=夸克网盘Cookie"
     }
   ]
